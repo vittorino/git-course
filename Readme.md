@@ -1,3 +1,1 @@
 # Git Course
-
-First test
